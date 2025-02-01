@@ -638,7 +638,7 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-   background: url(https://tse2.mm.bing.net/th?id=OIP.7Pcm6jlHtWUXrPeLbL53egHaEK&pid=Api&P=0&h=180) top center no-repeat;
+   background: url(../img/hero-bg.jpg) top center no-repeat;
 
   background-size: cover;
   width: 100%;
